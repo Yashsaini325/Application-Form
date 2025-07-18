@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: gray;
+}
+
+.applyform {
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    position: relative;
+    left: 400px;
+    top: 50px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.firstname {
+    display: inline-block;
+    margin-left: 40px;
+    border: 1.5px solid transparent;
+}
+
+.firstname:hover {
+    border: 1.5px solid black;
+}
+
+
+.lastname {
+    display: inline-block;
+    margin-left: 40px;
+    border: 1.5px solid transparent;
+}
+
+.lastname:hover {
+    border: 1.5px solid black;
+}
+
+.email {
+    margin-left: 40px;
+    margin-top: 20px;
+    border: 1.5px solid transparent;
+    display: inline-block;
+
+}
+
+.email:hover {
+    border: 1.5px solid black;
+}
+
+.jobrole {
+    margin-left: 40px;
+    border: 1.5px solid transparent;
+    display: inline-block;
+}
+
+.jobrole:hover {
+    border: 1,5px solid black;
+}
+
+.address {
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+
+#add {
+    height: 80px;
+    width: 400px;
+    text-align: top;
+
+}
+
+.city {
+    margin-left: 40px;
+    margin-top: 20px;
+    display: inline-block;
+    border: 1.5px solid transparent;
+}
+
+.city:hover {
+    border: 1.5px solid black;
+}
+
+
+.pincode {
+    margin-left: 40px;
+    margin-top: 20px;
+    display: inline-block;
+    border: 1.5px solid transparent;
+}
+
+.pincode:hover {
+    border: 1.5px solid black;
+}
+
+button {
+    margin-left: 40px;
+    margin-top: 50px;
+
+}
+
+button:hover {
+      background-color: black;
+      color: white;
+      
+}
